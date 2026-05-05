@@ -1,9 +1,7 @@
 # Space Experience - Interactive 3D Journey
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ByWhgui90Eo">
-    <img src="https://raw.githubusercontent.com/devgirl25/nasa/main/src/assets/nasa.png" width="500"/>
-  </a>
-</p>
+<a href="https://www.youtube.com/watch?v=ByWhgui90Eo">
+  <img src="https://raw.githubusercontent.com/devgirl25/nasa/main/src/assets/nasa.png" width="500"/>
+</a>
 # Experience Flow
 
 The application runs as a **single guided sequence** controlled by a master experience controller.
