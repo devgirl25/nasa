@@ -1,11 +1,5 @@
 # Space Experience - Interactive 3D Journey
-# 🎬 Demo Preview
-
-[![NASA Hackathon Thumbnail](./assets/nasa.png)](https://www.youtube.com/watch?v=ByWhgui90Eo)
-
-> ▶️ Click the thumbnail above to watch the demo
----
-
+[![NASA Hackathon Thumbnail](https://raw.githubusercontent.com/devgirl25/nasa/main/src/assets/nasa.png)](https://www.youtube.com/watch?v=ByWhgui90Eo)
 # Experience Flow
 
 The application runs as a **single guided sequence** controlled by a master experience controller.
