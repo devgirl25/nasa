@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/devgirl25/nasa/main/src/assets/nasa.png" width="800"/>
 </a>
 
+> ▶️ Click the thumbnail above to watch the full demo video
 # Experience Flow
 
 The application runs as a **single guided sequence** controlled by a master experience controller.
