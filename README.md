@@ -1,5 +1,9 @@
 # Space Experience - Interactive 3D Journey
+# 🎬 Demo Preview
 
+[![NASA Hackathon Thumbnail](https://img.youtube.com/vi/ByWhgui90Eo/maxresdefault.jpg)](https://www.youtube.com/watch?v=ByWhgui90Eo)
+
+> ▶️ Click the thumbnail above to watch the full demo video
 An interactive **Three.js / React Three Fiber** cinematic experience that takes the user through a guided space sequence.
 
 The experience simulates a short space mission workflow starting inside a cockpit and ending with a cinematic Earth view.
